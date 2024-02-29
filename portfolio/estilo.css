@@ -64,6 +64,7 @@ html{
     display: none;
 }
 
+/* PARTE ALTA MENU*/
 .inicio{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)), url(img/fondo.jpg);
     background-size: cover;
@@ -120,6 +121,7 @@ html{
     background-color: #1CB698;
 }
 
+/* SECTION SOBRE MI, INTERESES Y HABILIDADES*/
 .sobremi{
     background-color: #1e2326;
     color: #fff;
@@ -237,6 +239,7 @@ html{
     transition: 1s;
 }
 
+/* FOOTER */
 footer{
     background-color: #252A2E;
     color: #fff;
